@@ -6,7 +6,7 @@ Modifica sólo la línea que tenga tus iniciales.
 |------|-----------------|---------|
 |HAMADA B.| [MyBook](https://github.com/hamadabouhcida/cc_project) | 0.0.1 |
 |ABDELHAK B.| <!--enlace--> | <!--versión--> |
-DALKIS B. O. |[1,2,3 Go] (https://github.com/dalkisbustos/Proyecto_Final) | 0.0.1 |
+DALKIS B. O. |[Excellence Clínic App](https://github.com/dalkisbustos/Proyecto_Final) | 0.0.1 |
 |DAVID C. H. | [Meeple Site](https://github.com/DavidCh33/CC) | 0.0.1 |
 |RAMÓN C. C. | [NFTezos](https://github.com/rccarmenaty/Nftezos) | 0.0.1 |
 |ROBERTO C. I. | [EcuaTourism](https://github.com/Roark98/EcuaTourism) | 0.0.1 |
